@@ -1,0 +1,6 @@
+*.html
+*.xml
+*.json
+.idea/
+*.txt
+__pycache__/
